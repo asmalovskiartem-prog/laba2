@@ -1,6 +1,6 @@
 # Asmolovkiy Artem
 
-![Фото]([https://sun9-73.userapi.com/s/v1/ig2/bRbUKkQ2L9c2OVBUvP0lTA2j8R9sXdx02ZFQ7zPoMBLLYia0Qadyi-jRnMi136I2fNTlAS-CwF8cpKRSpnhJIeK1.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=2560x0]()
+![Фото]([https://sun9-73.userapi.com/s/v1/ig2/bRbUKkQ2L9c2OVBUvP0lTA2j8R9sXdx02ZFQ7zPoMBLLYia0Qadyi-jRnMi136I2fNTlAS-CwF8cpKRSpnhJIeK1.jpg?quality=95&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&from=bu&cs=2560x0])
 
 ## Навигация
 - [Перейти к личной информации](#personal-info)

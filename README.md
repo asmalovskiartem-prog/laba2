@@ -1,6 +1,6 @@
 # Asmolovkiy Artem
 
-![Фото]((https://avatars.mds.yandex.net/i?id=b7dc0cda63c54bd0e50f46035d0f7eaf7080111c0f97f527-12635432-images-thumbs&n=13))
+![Фото](https://avatars.mds.yandex.net/i?id=b7dc0cda63c54bd0e50f46035d0f7eaf7080111c0f97f527-12635432-images-thumbs&n=13)
 
 ## Навигация
 - [Перейти к личной информации](#personal-info)
